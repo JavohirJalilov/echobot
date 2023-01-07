@@ -1,0 +1,5 @@
+venv
+.git
+.gitignore
+bot.py
+set_token.sh
